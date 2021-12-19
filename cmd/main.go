@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jono-tt/generate/pkg/converter"
+	"github.com/shubhamdixit863/goschemaplus/pkg/converter"
 )
 
 func main() {

@@ -14,7 +14,7 @@ A library to generate schemas from given json files
 Install
 
 ```console
-$ go get -u github.com/jono-tt/generate/...
+$ go get -u github.com/shubhamdixit863/goschemaplus
 ```
 
 or

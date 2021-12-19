@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/jono-tt/generate/pkg/inputs"
-	"github.com/jono-tt/generate/pkg/utils"
+	"github.com/shubhamdixit863/goschemaplus/pkg/inputs"
+	"github.com/shubhamdixit863/goschemaplus/pkg/utils"
 )
 
 func Convert() {

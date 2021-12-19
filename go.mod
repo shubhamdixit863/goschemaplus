@@ -1,3 +1,3 @@
-module github.com/jono-tt/generate
+module github.com/shubhamdixit863/goschemaplus
 
 go 1.17
